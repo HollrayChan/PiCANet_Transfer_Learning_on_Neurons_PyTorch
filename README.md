@@ -10,7 +10,9 @@ We improved this code for the transfer-learning of nerve cells with our deurons 
 
 First train
 ![image](https://github.com/Konichanx/PiCANet-Transfer-Learning-on-Neurons/blob/master/images_readme/Screenshot%20from%202019-08-13%2016-08-05.png)
+
 ![image](https://github.com/Konichanx/PiCANet-Transfer-Learning-on-Neurons/blob/master/images_readme/Screenshot%20from%202019-08-13%2016-07-41.png)
+
 ![image](https://github.com/Konichanx/PiCANet-Transfer-Learning-on-Neurons/blob/master/images_readme/Screenshot%20from%202019-08-13%2016-08-22.png)
 
 We have trained the model for test with 1800 steps. 
